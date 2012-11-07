@@ -1,0 +1,9 @@
+[sebhtml@ip-10-194-103-146 public_html]$ df -i
+Filesystem            Inodes   IUsed   IFree IUse% Mounted on
+/dev/xvda1            524288   29595  494693    6% /
+tmpfs                  76092       1   76091    1% /dev/shm
+[sebhtml@ip-10-194-103-146 public_html]$ df 
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/xvda1             8256952    947144   7225952  12% /
+tmpfs                   304368         0    304368   0% /dev/shm
+

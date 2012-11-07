@@ -1,0 +1,13 @@
+[sebhtml@ip-10-194-103-146 public_html]$ lsmod
+Module                  Size  Used by
+ipv6                  317151  19 
+binfmt_misc             7368  1 
+scsi_mod              199543  0 
+ext4                  456530  1 
+mbcache                 7109  1 ext4
+jbd2                   86650  1 ext4
+crc16                   1527  1 ext4
+dm_mirror              13888  0 
+dm_region_hash          9528  1 dm_mirror
+dm_log                  9143  2 dm_mirror,dm_region_hash
+dm_mod                 74308  2 dm_mirror,dm_log

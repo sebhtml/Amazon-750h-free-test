@@ -1,0 +1,3 @@
+[sebhtml@ip-10-194-103-146 public_html]$ lsusb
+unable to initialize libusb: -99
+

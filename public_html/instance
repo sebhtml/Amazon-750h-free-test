@@ -1,0 +1,10 @@
+
+Micro Instance
+
+613 MiB memory
+Up to 2 EC2 Compute Units (for short periodic bursts)
+EBS storage only
+32-bit or 64-bit platform
+I/O Performance: Low
+EBS-Optimized Available: No
+API name: t1.micro
